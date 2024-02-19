@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T11:18:28.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Di91brL7Zegw2t8eOqyS" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T11:19:36.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="V5-KR1kFsMa4j2FcqwVZ" version="23.1.1" type="github">
   <diagram name="Page-1" id="8tiUXh9OOOgQ4oSdxPuH">
     <mxGraphModel dx="2704" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,8 +42,8 @@
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-41" value="Google Cloud Run&lt;br&gt;Google Compute Engine&lt;br&gt;&lt;br&gt;&lt;b&gt;Middleware&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=50;" vertex="1" parent="1">
           <mxGeometry x="-410" y="-620" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-42" value="Code Python&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-385" y="-480" width="140" height="80" as="geometry" />
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-42" value="Code Python&lt;br&gt;(&lt;b&gt;LangChain | LlamaIndex&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-392.5" y="-480" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-44">
           <mxGeometry relative="1" as="geometry">
