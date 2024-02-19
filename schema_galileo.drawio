@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T11:19:36.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="V5-KR1kFsMa4j2FcqwVZ" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T11:23:54.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2BG9hA9de__o0YIz_8Nj" version="23.1.1" type="github">
   <diagram name="Page-1" id="8tiUXh9OOOgQ4oSdxPuH">
-    <mxGraphModel dx="2704" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="-920" width="860" height="900" as="geometry" />
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-920" width="720" height="900" as="geometry" />
         </mxCell>
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-860" width="390" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-37" target="uxV9D01Ll2PjdH4FGNLQ-39">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#007FFF;flowAnimation=1;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-37" target="uxV9D01Ll2PjdH4FGNLQ-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-520" y="-590" />
@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-37" target="uxV9D01Ll2PjdH4FGNLQ-41">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;flowAnimation=1;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-37" target="uxV9D01Ll2PjdH4FGNLQ-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-520" y="-590" />
@@ -27,25 +27,25 @@
             <mxPoint x="-430" y="-520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-37" value="Google App Engine" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=50;" vertex="1" parent="1">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-37" value="Google App Engine" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=50;strokeColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="-770" y="-720" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-38" value="Code Flutter&lt;br&gt;(Compilé pour le web)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-755" y="-620" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-39" value="&lt;b&gt;Firebase&lt;br&gt;&lt;/b&gt;Auth | Firestore | Firestorage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-39" value="&lt;b&gt;Firebase&lt;br&gt;&lt;/b&gt;Auth | Firestore | Firestorage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-410" y="-800" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-41" target="uxV9D01Ll2PjdH4FGNLQ-48">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#007FFF;flowAnimation=1;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-41" target="uxV9D01Ll2PjdH4FGNLQ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-41" value="Google Cloud Run&lt;br&gt;Google Compute Engine&lt;br&gt;&lt;br&gt;&lt;b&gt;Middleware&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=50;" vertex="1" parent="1">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-41" value="Google Cloud Run&lt;br&gt;Google Compute Engine&lt;br&gt;&lt;br&gt;&lt;b&gt;Middleware&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=50;strokeColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="-410" y="-620" width="190" height="230" as="geometry" />
         </mxCell>
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-42" value="Code Python&lt;br&gt;(&lt;b&gt;LangChain | LlamaIndex&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-392.5" y="-480" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-44">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;flowAnimation=1;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-410" y="-450" as="targetPoint" />
             <Array as="points">
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-44" value="Point d&#39;inférence LLM&lt;br&gt;(&lt;b&gt;OpenAI | HuggingFace&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-44" value="Point d&#39;inférence LLM&lt;br&gt;(&lt;b&gt;OpenAI | HuggingFace&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-770" y="-420" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-45" value="Authentification&lt;br&gt;+&lt;br&gt;Base documentaire&lt;br&gt;+&lt;br&gt;Base de données" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -66,7 +66,7 @@
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-410" y="-300" width="190" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-48" value="Google Compute Engine&lt;br&gt;&lt;br&gt;&lt;b&gt;Hébergement de la base de données vectorielles&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=50;" vertex="1" parent="uxV9D01Ll2PjdH4FGNLQ-47">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-48" value="Google Compute Engine&lt;br&gt;&lt;br&gt;&lt;b&gt;Hébergement de la base de données vectorielles&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=50;strokeColor=#007FFF;" vertex="1" parent="uxV9D01Ll2PjdH4FGNLQ-47">
           <mxGeometry width="190" height="240" as="geometry" />
         </mxCell>
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-49" value="Serveur de base de données vectorielles&lt;br&gt;(&lt;b&gt;ChromaDB&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="uxV9D01Ll2PjdH4FGNLQ-47">
@@ -78,7 +78,7 @@
         <mxCell id="uxV9D01Ll2PjdH4FGNLQ-50" value="Encodage des informations&lt;br&gt;(&lt;b&gt;Embedding&lt;/b&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-310" y="-380" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.368;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-48">
+        <mxCell id="uxV9D01Ll2PjdH4FGNLQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.368;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#007FFF;flowAnimation=1;" edge="1" parent="1" source="uxV9D01Ll2PjdH4FGNLQ-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-340" y="-390" as="targetPoint" />
             <Array as="points" />
